@@ -1,0 +1,6 @@
+C:\repos\TestConnectionStringSolution\TestConnectionString\obj\Debug\TestConnectionString.csprojResolveAssemblyReference.cache
+C:\repos\TestConnectionStringSolution\TestConnectionString\bin\Debug\TestConnectionString.exe.config
+C:\repos\TestConnectionStringSolution\TestConnectionString\bin\Debug\TestConnectionString.exe
+C:\repos\TestConnectionStringSolution\TestConnectionString\bin\Debug\TestConnectionString.pdb
+C:\repos\TestConnectionStringSolution\TestConnectionString\obj\Debug\TestConnectionString.exe
+C:\repos\TestConnectionStringSolution\TestConnectionString\obj\Debug\TestConnectionString.pdb
